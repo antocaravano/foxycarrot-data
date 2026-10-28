@@ -1,0 +1,480 @@
+{
+  "generatedAt": "2026-10-28T19:51:06Z",
+  "tennis": {
+    "rankingIsSample": false,
+    "calendarIsSample": false,
+    "updatedAt": "2026-10-28",
+    "rankingSource": {
+      "it": "classifica ufficiale ATP (da live-tennis.eu, aggiornata il 28 ott 2026 alle 16:50)",
+      "en": "official ATP rankings (from live-tennis.eu, updated 28 Oct 2026 at 16:50)"
+    },
+    "calendarNote": {
+      "it": "Gli altri tornei non sono ancora stati annunciati.",
+      "en": "The other tournaments have not been announced yet."
+    },
+    "ranking": [
+      {
+        "position": 1,
+        "name": "J. Sinner",
+        "points": 10450,
+        "change": 0,
+        "isSinner": true
+      },
+      {
+        "position": 2,
+        "name": "A. Zverev",
+        "points": 9750,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 3,
+        "name": "C. Alcaraz",
+        "points": 5610,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 4,
+        "name": "B. Shelton",
+        "points": 4680,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 5,
+        "name": "D. Medvedev",
+        "points": 3860,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 6,
+        "name": "F. Cobolli",
+        "points": 3690,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 7,
+        "name": "F. Auger-Aliassime",
+        "points": 3515,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 8,
+        "name": "A. Fils",
+        "points": 3425,
+        "change": 2,
+        "isSinner": false
+      },
+      {
+        "position": 9,
+        "name": "F. Tiafoe",
+        "points": 3380,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 10,
+        "name": "A. de Minaur",
+        "points": 3280,
+        "change": -2,
+        "isSinner": false
+      },
+      {
+        "position": 11,
+        "name": "R. Jódar",
+        "points": 3234,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 12,
+        "name": "N. Djokovic",
+        "points": 3090,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 13,
+        "name": "T. Fritz",
+        "points": 2995,
+        "change": 1,
+        "isSinner": false
+      },
+      {
+        "position": 14,
+        "name": "T. Paul",
+        "points": 2675,
+        "change": 1,
+        "isSinner": false
+      },
+      {
+        "position": 15,
+        "name": "A. Davidovich Fokina",
+        "points": 2600,
+        "change": -2,
+        "isSinner": false
+      },
+      {
+        "position": 16,
+        "name": "J. Menšík",
+        "points": 2495,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 17,
+        "name": "B. Nakashima",
+        "points": 2375,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 18,
+        "name": "L. Tien",
+        "points": 2345,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 19,
+        "name": "F. Cerúndolo",
+        "points": 2310,
+        "change": 2,
+        "isSinner": false
+      },
+      {
+        "position": 20,
+        "name": "A. Bublik",
+        "points": 2285,
+        "change": -1,
+        "isSinner": false
+      },
+      {
+        "position": 21,
+        "name": "J. Lehečka",
+        "points": 2275,
+        "change": -1,
+        "isSinner": false
+      },
+      {
+        "position": 22,
+        "name": "A. Rublev",
+        "points": 2175,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 23,
+        "name": "L. Darderi",
+        "points": 2160,
+        "change": 0,
+        "isSinner": false
+      },
+      {
+        "position": 24,
+        "name": "K. Khachanov",
+        "points": 2030,
+        "change": 1,
+        "isSinner": false
+      },
+      {
+        "position": 25,
+        "name": "C. Ruud",
+        "points": 1995,
+        "change": -1,
+        "isSinner": false
+      }
+    ],
+    "events": [
+      {
+        "name": {
+          "it": "Six Kings Slam (esibizione)",
+          "en": "Six Kings Slam (exhibition)"
+        },
+        "place": {
+          "it": "Riyadh · The Venue",
+          "en": "Riyadh · The Venue"
+        },
+        "start": "2026-12-27T12:00:00Z",
+        "end": "2026-12-30T12:00:00Z",
+        "status": "provisional"
+      }
+    ],
+    "nextMatch": null
+  },
+  "news": [
+    {
+      "id": "485613f725e1",
+      "title": "Binaghi su Sinner: “Non è un superuomo come Djokovic e non ha la forza di Nadal: fisico da costruire”",
+      "lang": "it",
+      "publishedAt": "2026-10-28T15:20:04Z",
+      "reliability": "multiSource",
+      "reviewReason": "sensitive",
+      "decision": "approve",
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Corriere dello Sport",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVlZuSS1sOU4zMXctTjNYYjNWZFZfYXNMdWpHMzEtWU5zaGdqbU5hLXNvU3E2NHRZOE50SDdweEgxVTlZWU5WTWFLYmFEd2t4MWR6LXpJQ0N4VXJ4dVFIaHpQanFSMWxGSjItVFZyWTVCV1VEUjZyRmxUd1dmV1A5cXJXSWJoMmR3Mmx0cEpyeFdXcmJhTUpmTUxLcGNCUWtubTAyZmQyS3QzTlhrSDVCVjF3TWxWUnNGd1RmNjI2am1rT3ZBaWdYeWJ4MzYwRUZHemljU3ZlS2FCV0E1LVRwN0x1Mi01Z9IB6AFBVV95cUxPLXdrT3RoVEZvT1cwMXNSTnlSRVN3a0RrVTJ1UzRIM2V5WU9HVFpUSV84cUwzTnQ2a2FHNWZ1ZnkzaFdfR21VVDN3d29jTGR0REcydGpweGhjNTBXbE1TTTN5ZVZxdEhzbHZHd1dpZmhWSkNCNm5MSVNTaWRjanVUaUxzMnhIV21KcUJZUDZhS2NvNjV2RzFoSUVmR0dfdFhsbG9XRVcxVWRrZDBCOUZOd0ZkVWN4SFRMWHNpV2duTmdOQXFUUHNVVzEzbjFSQ2xGdjVOV0lCRUNGU01pX25BZkl6R1l0RmVZ?oc=5"
+        },
+        {
+          "name": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNd0xsdDNReW95NExTanRfZEZrYVY5SHdjb0dVRk0zM0pLT1I1OTNWenliWHlYYmRuVkxBNTBVVy04WV9MX05QVmVnWUF6UzNjeFhMWnUwT25PYnJSTHlqVThwN0Vjay1Zc1RrQjBsQ1VTSlRmaG1PVW03ZnRtWUlKSHFfbE1uUHBHZHM5YWtRYlFhUmF6Y29yQW9nVU4zU3RNVkZtdERLUXE1QmpPWTJrQjAzd1N2QWtHd0tGS1gwZ0lNMWh4ZmFOdEZ0T0xtbGxvX3g1cWVGQWtqc1BfNmhSM0pPcXp1aWRYWHNVbVNvMVZvVFVza0phUk1jbUZrMlRpdDNEcXhhMA?oc=5"
+        },
+        {
+          "name": "OA Sport",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN1p1ZXY5aXdhU3dwTkhCc3p4SldvZlkwTVl0NkwyclVEU0xQeTREWlI3VGp0OUpHWmhHOWdYX09ZMEJWd2dHa2p3MzVvVkdFMkJZaDVmVUtXWlR4Mk8xbVMxb3FHZVJocGpFbnlOc1d0RWJFVTJoSzdEYUVoZWZBNmtmd1lmeG14amNxS1AwVmctRmJLa3kzU0V5Z0JXa0pHcWI5TzE1T2JfWjAwU3hTbTFJc3FqSkMzY0daMElSX3hheXVocjlZeNIBzgFBVV95cUxOeFZpUWkteDd3XzdVUWoxcHd1TkJoUjZQbGZaOVk2LWE5WmM5SXZ2eGt0MFBNcG1HcW1WVERMWHQyT1p2MXU4eTZ5Y3VqUGFfUjI1Tk1nNG9lZnhXc0diYW1tQzlvZDAtelItWjdxNmZOMW5FMy02ZktrREpBUlRnOXJhSUlXWTF4SEVYbWFEdmpMb0t4QUoxdnd5N0ZOcnE0eWVCN3Y4T3cwbHpfaDU2THVrS19fQ2tRMk1zV1NqR3p2RGlGRGZDelNnR1dkdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "574b0d486ab0",
+      "title": "Jannik Sinner, il ritorno è più vicino: il post emblematico sul Six Kings Slam",
+      "lang": "it",
+      "publishedAt": "2026-10-28T11:10:13Z",
+      "reliability": "multiSource",
+      "reviewReason": "sensitive",
+      "decision": "approve",
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkc5bTU1TFJCcnA0bnVsdk9DTXA5S0JpWTBndmYxMHdHN18wUFZ0UE8zVTZMMU1hU2Jfa04zWVZGRG1GWnp3STA4SGJBUUxlUF9RQzJJTm1LWnVPUTJrUWJfekd0LUhiVHJkQnNfNHVPNUJxTmJPcmFZak5oZl9Zd0hFVlhxN0p2LW5UYXY4dU9SeHlVaC1NQnJxUjk0SkZZUUlaSUdsMDZhMFVYcWlINFdSOXQ5ZFZISUYwRmNLc20wMk5ldUJQZA?oc=5"
+        },
+        {
+          "name": "Olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnR6RVhGNmVGWUt5RHNLamFEMlFGM05yS0dTWUhCZjFMMFY3aEJYd0tLck05eGZtVFpMX1pQODU2RUdOSmxrMnJhbkhUZUxCamdyaDlkUkU4YzdKcUZRS1lBVVNYeXFPN3M0djI1bm1yR0dFZjhjVHlUTWQzUHpEVGthOUptT0lFVlIyNGNB?oc=5"
+        },
+        {
+          "name": "OA Sport",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWVET05MajNvSXFIdzU0TUdyUXp1NGVoM3haRGNDN2JYRHVIZ1ZiT1hkanBBMjJZbHBmY0VDOVFnQWNQRlJMZWI5X3ZDU2FWSllleTNJZ1VhNXdHQ2doc3VUaEpRUVRObEhWVWVWbk9fc09fMV9ubFlKVWdhcElUVEc5WEpYdjA1OC1aV0c4czd5YWRQSEREQ0E2bF9DQzFOWGxXTHBNeFlpbmxK0gGyAUFVX3lxTE5TbVB5WS1mWkVzOXRNVUt0aWUyZTZQdlljSTVDaklrcUZ4anAwbHBhY2tDZUlhNm82anZuUUp4Znk1VVRTVmRETTBidHR4WThUR1RPVlFhWGlyOUNVMTRVYnF6Szd6eXViQ2JjUkk5bEpCOVlsb3pCRzJzcDRsR3E1TXNtTDAwV1dWT3B1dTBQdmtXWUJWYm9YOENkd3dfSDFLaXVNY3VDczdzXzd2clUyNXc?oc=5"
+        },
+        {
+          "name": "Sky Sport",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWliNmNBYnRXWkZIcVl4Mkl2THpWYU5Ealp4bWYtelhQa3dDUWRrTmVJRjZaSkNrYWdJRUdLZnhMQ3BxaHB6eDNjVlpZZlUyX3lMRlVjY0pLaUd1a3VCUmxQR05VVGp1WGtWc1F5bm9BZHIzUGFRS1VJZkFLanh2T3R5UEdPbDEyOG9QaHBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94eda5a78f7b",
+      "title": "Jannik Sinner ha scelto Magnus Norman: sarà lo svedese il successore di Cahill",
+      "lang": "it",
+      "publishedAt": "2026-10-28T10:33:08Z",
+      "reliability": "multiSource",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "La Gazzetta dello Sport",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHNFbmQwZ1pKNFBMSTA1YjlZWUJjN3lSdmF6WVRUZE8xak9oQ1ZPZkItN2k5UjRiWkZrNVo2RHU3YmJPMmt2RXM3eFRTVERpRjd1T0ZxRkdIX2RHOERCOEhqSC12QmVXeUhOTXJHNFN5dktLbV9vT2hxSG91MDVmem9DU0lMOWg1NmVmLTUxTzM3U29EM21KZmR4SFd4TDNLQml3OVZKeElzMi11aVM1RmNzS1hpTVZCMzBtc2lqRnNIR1Z2d1A0bFhTME9ZRk83LUxLbDlDV0h2SG5WeEJ5NURMaXNqUkNpN0NaUkhJQdIBxgFBVV95cUxQVE5Xa01reHB0VWxvVlJwT254WXlsMzVoSE5BWm1ZTkF2OXZHNTByYUVtREhDUUNWeHJvZGpmVDNXNkdHN0RROHVmRFBOYnVwVzEzR1ZzUW14YlB3R3hXeTl2a3p5SXJzRy1TYXc4YVlOUzRjcGptVld0SkItaFM2QU9QeDBFYnpjZ2w2U1Q2UnM1Q3JSQTZSSmFocjJhMEFiR1ROSExFeDZiSVBYQ0UzTWtuZW00LWVLQ0lnVDh3elc2R2VXZEE?oc=5"
+        },
+        {
+          "name": "la Repubblica",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkQ3VGwyY083aEtMZzhybWxmODludk1aUXRnUHRDTURwak5JWTNqcDFncEgyNko4RDl5RE9FUVhtcDhyc0V4a3kyVUUtNDZDN1ZiWk4ycERkVVI5NGI5RWhLYnVvX3ZzX28zMVc0X0I1ZnloWS1YMDE0cURSVUNnMlR5b3JOWGk4TWRBazZuVmx6VWdsYThBM2llNGJqT0l1UWJjdldPd9IBrAFBVV95cUxOdVhDc1VDM2ZIdXZqWGNuRlhXdDk3aFhvNldIa1pKZm9ab2xzRWJ4ckFwcWNha25zRnlVWHFOOWxKdWRWNWlKZDJnNzZnZkV5Y1JWSnNmS001WFNScERIazROUzFQM0FnRm94VXBLU21IYWFZVG9TQWhtOHR6TkNsUzdMc1NWLVpCYkcxZW5FaC1vWDBzU0lPTlZxamhRN1BxaDdvVkd1ZFBFZWE2?oc=5"
+        },
+        {
+          "name": "Ubitennis",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTXVtTDQ2T05aNWxmYXRTLVVfaF9Uem01dk5ld3Vsa29IR2RmUHFTWTNVRWpEMTlIdm5uMHhGdzJSWmJYNVNsNm04MFBURVpOb1dhb0NxMHZSZ3g4aUlZeFNRODdHbjUtX21XeVh1Z3ZDTUp0ZjQ1RVUwQ29XVE80eTlZejBkamdaQldneVBkUGdqRWhZeFR3c1k1QzFBYWJNVWVGdlVkaFZqd3lrSVFWQV9BejZZSUJ6Y19KaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fbe9695fb5a",
+      "title": "Tennis, superato il calcio per numero di tesserati: \"Effetto Sinner ma non solo...\"",
+      "lang": "it",
+      "publishedAt": "2026-10-27T16:03:19Z",
+      "reliability": "multiSource",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR09ZQWdPbUNQOExRWUlEbWhWZS1oOVJDZHF5VTBHSlRZbmxjbjdkNmpCM1FHMTRiS0xPLXgtLUhDUVFWeFZ2REdRUHh0aV8zakpxUnZGQ08tLWRuNFNDcVktVU4tXzZZeVZmZ19BcEJTdE41WVVEbXF3dVFUdWhoUkdXS29zcVQxXzFnaVZrX2w2SXMxUUlSNVlxVkV6cmp2bjA0MVlxWVVxeDlFRERUNXoySms4aGVZNVduY0FnYmVMMnJCNWczOWQ2MHo1TVhzT2FidDVKN3lEbTBMSlBQSXVJSDZNb0Q5YXVuMWpTd1JvMmVrbVYxc0I0UGZrT1J4eU1JQjNxQQ?oc=5"
+        },
+        {
+          "name": "Corriere dello Sport",
+          "url": "https://www.corrieredellosport.it/news/tennis/2026/10/27-152190759/tennis_superato_il_calcio_per_numero_di_tesserati_effetto_sinner_ma_non_solo_/"
+        }
+      ]
+    },
+    {
+      "id": "0e35039b208e",
+      "title": "Sinner annuncia sui social la data del rientro: ci sarà al Six Kings Slam di fine anno",
+      "lang": "it",
+      "publishedAt": "2026-10-26T18:31:25Z",
+      "reliability": "multiSource",
+      "reviewReason": "sensitive",
+      "decision": "approve",
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Corriere della Sera",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjg0d0pDQ2kxYWZidXp6eFJNNE5zc2wzX0E3anlmbHdJZEhiX0FkdjQ1SjZUYmVvSmFRTGhzRmRhVktBUzVrTzJBcUd2ZFFPaGZLdE9Md3NiTmNZV050Z01SMkRCMFZDOURnX2VQYmFUUG5aaVkxQVJnSDZtZ2dqcnNacExaWG1hS2NkcEhCZUF6UlctVEE?oc=5"
+        },
+        {
+          "name": "Corriere dello Sport",
+          "url": "https://www.corrieredellosport.it/news/tennis/2026/10/26-152172576/sinner_c_la_data_del_rientro_sar_al_six_kings_slam_a_fine_anno_/"
+        },
+        {
+          "name": "La Gazzetta dello Sport",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcjlrMkIzZnphdFZKcGJyaC1mQ2xzaXh4aEhmVGtUQWY1MEV6VUFxVDFwdnoxTDNlcm1HLU5peWdIeHA4cG5iemg5MTdVdWFxR3pGdzRDOXh0NHF5V1RlZ2prUnM3cDhHUkVYYkZHRWlEaU5IcFBUOXlqQ1Nlc0wzR05LYmgtWHFQM2FjYTZ2VGViWDdJd1RFLU9hNHpGMUM3QUxDbmFpc1lzWEJNanZ5Nm1yUnhOdVVT0gG-AUFVX3lxTE1PMGg1YU9oVDQ3LWlibFJtUk5BMmk2TU5JZk5acGFqNXVVczZiRlJpaEJRNWRLNk1HWERETThLVm10VmtQTll5dnVVblVlem5XMmdCMmxkdzhmZy1fSDFHZXhZSGlkZC0wNjFFRFpxZk5WSlJmaUtITHJpeUkzREwyNXJFYldmNFJEVGZUQ1BLUFpwbHBxRm9zQ0Q1WGVoQVBoUEhjRzdMWjlXaUpoZzBua0xlTDFNVDlaYXNDTWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5dff50e4825e",
+      "title": "Sinner to return from injury with appearance at Six Kings Slam",
+      "lang": "en",
+      "publishedAt": "2026-10-26T16:51:46Z",
+      "reliability": "multiSource",
+      "reviewReason": "sensitive",
+      "decision": "approve",
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzdaTjNHUXpXZHp2QjJrQ0hWWmNabzY5aWszLUQ0TWtkNEVDajE3U1drYU0tVzl4c29nNnFCeVZ6eFd6MmJNaHFDZU1rRWdHTjNMWHpzWWh5cEJtSE1jYXNicmFtSlEySUpoQmxjWWdlUkozSXUwcjBBa09TakNVTXlha3J2MnB1aUxMVUZPeTFZbUw5ZGI4?oc=5"
+        },
+        {
+          "name": "TNT Sports",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTN4MUZPaERqS2lXNzYyclBDRVRfOVNzMDdwWWQ0a05nSlM1NGpha3ZEWXJNWEM3NUFsa2FnUkFidHdfRy1rR1VtamlMa2pNY2t1X3VMVmxjVEg5TTY1U0tQMUlyU0UyUUQ3cldDTFJ3REVqVXdZbTRHTlUyd21iOVhlVlRSQjBSZ1J0LTNPMzdwU1RIX0h4dnNkVVB0emZreEJIblJlMzNxOEtFQnZaRDZjMmVlLTg0aWpjcg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "020bb7bafde1",
+      "title": "Sinner, l’emozionante messaggio per l’amico Kimi Antonelli: “Complimenti, fortissimo!”",
+      "lang": "it",
+      "publishedAt": "2026-10-26T11:41:07Z",
+      "reliability": "multiSource",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "OA Sport",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLXZ4LTJuRUg1Q2FERnBEcnpxS3lXb1BrTFVmTG1Cd3JGYkhETWRCa1JPMU1PYzJkVTVxRDlXaW1QaU52VGNGenktRjFzZHA2bUVvOElhQVhhMkdMeE1rc0w0Z2VJV0JpSWVjbW95WTFHWGw1YVJyVzVWWnkxT19sMjUzbFM2Zzk1QjhrQTYtXzRPRXlRTGx5UXVvMnUxejlnLS1WTzhaVjlrNTlqa0U00gG0AUFVX3lxTE5lUklGUWVnbDNwWVRydGpCbmVwRDRINDFNQkVRUV9qZTl5R0FDMG1BRzlKM3llUExCNGcxZkRmaURUMzl0MmNPTm5VZjA3S0JzVmNrS0lWZjV3VzZLbTV4VTZTNkJhREZUdHE3bVl6M3NDcWgyODJhVmxMUWhqSXJhOU5zQ2FrYlBQMFpCY0JqTlo1bkVfRmQ5dzRtemVlNlZwMk0tNXVQVjAyNUl6LS1BME53cw?oc=5"
+        },
+        {
+          "name": "Corriere dello Sport",
+          "url": "https://www.corrieredellosport.it/news/tennis/2026/10/26-152168117/sinner_lemozionante_messaggio_per_lamico_kimi_antonelli_complimenti_fortissimo_/"
+        }
+      ]
+    },
+    {
+      "id": "6198a2ed5f30",
+      "title": "Medvedev: “Sinner e Alcaraz insuperabili se sono al top”",
+      "lang": "it",
+      "publishedAt": "2026-10-28T18:35:19Z",
+      "reliability": "developing",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Ubitennis",
+          "url": "https://www.ubitennis.com/blog/2026/10/27/medvedev-sinner-e-alcaraz-insuperabili-se-sono-al-top/"
+        }
+      ]
+    },
+    {
+      "id": "9a97d048eb24",
+      "title": "Zverev diventa n° 1 al mondo a Vienna, scavalcando Jannik Sinner, se... Il tedesco: \"Pensiero che non mi condiziona\"",
+      "lang": "it",
+      "publishedAt": "2026-10-28T18:04:16Z",
+      "reliability": "developing",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Eurosport",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZXZ1WTNFTjFPTm05c3hldmVfOW9yU203Z3NBclVzSlE1WDFFWXpwMXR0bm1GWHZTdHptTDZzTHJUM3RHLXNud1RNZy16NmxaeXBHS29MZng0aXczZF9CVERydnU5cjhBZko5c0dvYzBuRzZSeUtZbzBSdmlEYzB4TDZEMzUtYzJtcDJ2NE9NcWc4SmdTQ0RNXzA1eld6Ynp2MGtWUzBzNFFFTC0wQ2xHRUtGWWloTjllY092SmNOalRrbDBraEdXOG5wT0s3VXdnRmRyaF9pOTZBZGwxTXBsbUotY180a0R2S3Vld21WcEdhVlFZZGpxYTVzY01Ib1Fzalo4VjVBR2pQZzlNa0NN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "accc9351a5a4",
+      "title": "Daniil Medvedev: “Giochiamo troppo e non abbiamo potere decisionale. Sinner e Alcaraz? Sono due fenomeni”",
+      "lang": "it",
+      "publishedAt": "2026-10-28T16:18:24Z",
+      "reliability": "developing",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "OA Sport",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXB1aWk4emdxbElsT2l2aVhCeUg1ODRFLUZoNWVTN0RlSExfMXZ6bEQxRFlGVEZPalFPbXlUSlBubEFyY3g4alNWUmxQU3doTERMbGpJbEdCNDE3ckJHbWJPZTRod3hwek1FZ3FOYVN4SnpzcXk5VHpJZFJSbjJOUXBBc1dRbXFmbEEwVFQ0RXNuMC1vU1FMVFNUODd1X0JTZ1p1TWE1eDkxQnhWN1o5VWdTWEp5SW1QN3ZnSFJuaEk1eVhEZ1Azb0trYk9DSDd4enNXT3J30gHbAUFVX3lxTE9SYnQxMF9UY1M4TUEzaFUyY1dvXzU4U1loSmdQQS1uSXFHaEt3UXVuRnJ3M2NDSkNNV0xsZ0JwNUpVWnlwUnZsSndHWWU1LW9PYlIxTjBSQW40cDFhRU5WUV8zN2FlZ1MwcmVESENOT0JucG0xeGxXV1JJR1lGbXl1Ti1fbHRwQ3JIZUFNZEhULW1SY1BOcXFoZE94N2cyQS1FZ0xWN2FCRGhsZXo2WDBIS1ExZUJQM0ljRld3N2d1U3pHVVZSdVRia1psZWlOblloY1JhRk5XQ3RZZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "838fd5ac59a5",
+      "title": "Zverev a una vittoria dal n. 1 del mondo: la data del possibile sorpasso a Sinner e il prossimo avversario",
+      "lang": "it",
+      "publishedAt": "2026-10-28T15:11:55Z",
+      "reliability": "developing",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "OA Sport",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNd050U0F1dnd4YlR6U3NxYjRTbjY0WmtrQzFERGUyWll2UnBCVVh5TXhPdjdzRmxadzFaSFVHamtobElreXVtNlNjbmR5MzF6QjRPQnRnTEI3WnltVGUwZWlQME1XMWdfdmI0NzgxUlZpQjF6c0NMNzFyeWFFQ2NQRU1ZNzNjSmR2d3RvS1lfMnRKUWtqNnY0Ym1BeE9pZ19meVNNTFlNWWNsSUdXa0lyTGNYZGV4ZWZvN0o5b0VNRkZjbG1VRmJoTkxUaWs4cUJiakHSAdcBQVVfeXFMTUdmcjZqRjZsVGNyNzBTUWFsM01tZHRITWh2eGo4SFVMSC1WeW1OUG9yU2NoeFYwSW5FRFFXWGNGeUIzcm91d3lPYkhFcy00Q3ZsN3hCWlk2MUNiN0ZJZlRONUxIQWtkWEQ3dnUwbkhQUjJSTTFCUElSaWVJSW44TGU3RHdUNG5oV2FUWDlESTJrOWNfeHFqdzl0OWY5emFKWFo0R2lzOUtLNkhwZWFOS1NPNnBxMV9kcWVTdkVmekk0Qmczby1FYVE0QlFtTjVRMTJoNGZhbHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "45b03236e457",
+      "title": "Olivia Conticello, i sogni della giovane azzurra: “Ecco cosa mi ha insegnato Sinner” [ESCLUSIVA]",
+      "lang": "it",
+      "publishedAt": "2026-10-28T15:08:46Z",
+      "reliability": "developing",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "Ubitennis",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU2lRX05iLTNTX3FoQ1NqLXc3aFdZNUd3cjAteDVKWm9QOWpiSFBEVktyc0RrQjV3bFJVSU9DbEZBc1JlcWNfQU5NeDZ3N2g2RTFpNzFjSTdybHBWVWdkRTRhcmNHaVlvVmVMZkphQVlpTmdCWFh3Rmwwa2N3M1BEQ245WlB5bkdrR3NhRGkyMXJWejF2Y1Z5NlZmZXh0VF9YY3R1enVvYnhaTUE4blZwQ3NLNkgzUmJYU2Zfc0g2ZHBLTUJ5eG9IUXRlazNrUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4cb8d552d32e",
+      "title": "Kim Clijsters promuove Sinner: “Scelta molto intelligente sul nuovo allenatore”",
+      "lang": "it",
+      "publishedAt": "2026-10-28T09:18:03Z",
+      "reliability": "developing",
+      "reviewReason": null,
+      "decision": null,
+      "needsReview": false,
+      "blocked": false,
+      "sources": [
+        {
+          "name": "OA Sport",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2ViQVhTMUY1TGpCdHBmcVUtaHlxUjlTTHlLNjI5S3pwejQ2clZjODZhUl9rcXV1UWJ1ZFZGcFc4YnNCb2NXTG9rdEhFTjY0bGVUbzdza0hYUWtlTXk0Um1EaS1sa2ZHbWtYbUYtNWRob2VKdDJLMVVZQ2NaMExNTUxndnhzcWIzR0FiY05DM3lZTS1MdV8wVy1BQWJTWFBGSWowc2VrRU4xLWdW0gGyAUFVX3lxTE9uUF8taVhnTmF0eFBRMjNDLTluNkdqSW5sSl94TGhtb3pPcEVLUnN3LTBWSHg1ajM1TEU4eV95dXBZb2xfSzJGanZCMUlqSVRrb0xlNXhIeVI0T3R1VXEwc1hSQ3hWUUNKMUNxV3Z0QVA1UDVxd3lYU0taczJaLVhVSmtFMjA2ZnNlYlNIc2ZaR0RLTEpvdXA1eFU1aDBhVVIxd0RCZEIxQVJwdXdoa1VLSWc?oc=5"
+        }
+      ]
+    }
+  ]
+}
